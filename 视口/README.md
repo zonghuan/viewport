@@ -1,6 +1,6 @@
 ## 视口
 
-这里会说三个视口：布局视口，视觉视口，理想视口。它们有如下性质：
+这里会说三个视口：[布局视口](https://github.com/zonghuan/viewport/blob/master/%E8%A7%86%E5%8F%A3/%E5%B8%83%E5%B1%80%E8%A7%86%E5%8F%A3.md)，[视觉视口](https://github.com/zonghuan/viewport/blob/master/%E8%A7%86%E5%8F%A3/%E8%A7%86%E8%A7%89%E8%A7%86%E5%8F%A3.md)，[理想视口](https://github.com/zonghuan/viewport/blob/master/%E8%A7%86%E5%8F%A3/%E7%90%86%E6%83%B3%E8%A7%86%E5%8F%A3.md)。它们有如下性质：
 
 * 在桌面浏览器，浏览器窗口就是约束你的css布局的窗口(称为布局视口或者初始包含块)。它决定了用户可以看到什么。
 
